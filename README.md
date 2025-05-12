@@ -1,2 +1,2 @@
-# GestionEcole_py
-Une application desktop codé sur python pour facilité la gestion d'une école 
+# Pro
+Applocation de gestion d'école sur python-Tkinter
